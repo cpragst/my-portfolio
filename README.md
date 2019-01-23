@@ -7,3 +7,7 @@ This is my professional portfolio. It uses AWS and reactjs.
 brew
 git and github
 ssh
+html
+css
+font awsome
+goolge fonts
