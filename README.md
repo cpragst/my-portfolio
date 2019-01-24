@@ -17,7 +17,10 @@ S3
 Certificate Manager
 Cloudfront
 
-Codepipeline
 Codebuild
+python
+boto3
+
+Codepipeline
 Lambda
 sns
