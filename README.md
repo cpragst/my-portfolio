@@ -11,3 +11,13 @@ html
 css
 font awsome
 goolge fonts
+
+Route53
+S3
+Certificate Manager
+Cloudfront
+
+Codepipeline
+Codebuild
+Lambda
+sns
